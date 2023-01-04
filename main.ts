@@ -1,4 +1,5 @@
 let vlhkost = 0
+pins.analogWritePin(AnalogPin.P0, 0)
 basic.showLeds(`
     . # . # .
     . # # # .
